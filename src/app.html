@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="manifest" href="%sveltekit.assets%/manifest.json" />
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
+<style>
+	html {
+		overflow: hidden;
+		height: 100%;
+	}
+	body{
+		-webkit-user-select: none; /* Safari */
+		-moz-user-select: none; /* Firefox */
+		-ms-user-select: none; /* IE 10+ */
+		user-select: none; /* estándar */
+		margin: 0;
+		overflow: auto;
+		height: 100%;	
+		touch-action: manipulation; /* Desactiva el doble-tap para zoom */
+		overscroll-behavior-y: none; /* Elimina el efecto de rebote */
+		position: relative;
+	}
+	button,
+	div,
+	input,
+	textarea,
+	select,
+	a {
+		-webkit-tap-highlight-color: transparent;
+	}
+</style>

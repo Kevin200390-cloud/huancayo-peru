@@ -1,0 +1,244 @@
+{
+    "financial_entities": [
+        {
+            "name": "Banco Central de Reserva",
+            "code": "001",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Banco de Crédito del Perú",
+            "code": "002",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Interbank",
+            "code": "003",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Banco Latino",
+            "code": "005",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Citibank",
+            "code": "007",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "STANDARD CHARTERED",
+            "code": "008",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Scotiabank",
+            "code": "009",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "BBVA",
+            "code": "011",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Banco de la Nación",
+            "code": "018",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Banco Comercio",
+            "code": "023",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Bancosur",
+            "code": "029",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Banco Pichincha",
+            "code": "035",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "B.I.F.",
+            "code": "038",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Crediscotia",
+            "code": "043",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "BOSTON",
+            "code": "046",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "MiBanco",
+            "code": "049",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "BANQUE NATIONALE DE PARIS-ANDE",
+            "code": "050",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Agrobanco",
+            "code": "051",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Banco GNB Perú S.A",
+            "code": "053",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Banco Falabella Perú S.A.",
+            "code": "054",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Banco Ripley S.A.",
+            "code": "055",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Banco Santander",
+            "code": "056",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Banco Alfin",
+            "code": "058",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "ICBC Perú Bank",
+            "code": "060",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "BANK OF CHINA",
+            "code": "062",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Banco BCI Perú SA",
+            "code": "063",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Financiera Credinka",
+            "code": "073",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Financiera TFC S.A.",
+            "code": "088",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Compartamos Financiera",
+            "code": "091",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Financiera QAPAQ",
+            "code": "093",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Financiera Oh",
+            "code": "094",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "FIN.EFECTIVA",
+            "code": "096",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "Financiera Confianza S.A.A.",
+            "code": "099",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "PREXPE",
+            "code": "776",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "CMAC METROPOLITANA",
+            "code": "800",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "CMAC PIURA",
+            "code": "801",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "CMAC TRUJILLO",
+            "code": "802",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "CMAC AREQUIPA",
+            "code": "803",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "CMAC SULLANA",
+            "code": "805",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "CMAC. CUZCO",
+            "code": "806",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "CMAQ HUANCAYO",
+            "code": "808",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "CMAQ ICA",
+            "code": "809",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "CMAQ MAYNAS",
+            "code": "811",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "CMAQ TACNA",
+            "code": "813",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "CAJA RAIZ",
+            "code": "836",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "CRAC LOS ANDES",
+            "code": "849",
+            "immediate_transfers_enabled": false
+        },
+        {
+            "name": "Tarjetas Peruanas Prepago S.A",
+            "code": "921",
+            "immediate_transfers_enabled": true
+        },
+        {
+            "name": "DALE",
+            "code": "922",
+            "immediate_transfers_enabled": true
+        }
+    ]
+  }

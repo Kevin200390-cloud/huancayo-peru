@@ -51,7 +51,7 @@
             banco = entidad.name;
             // tipo = banco === 'INTERBANK' ? '1' : '2';
             // Para esto no es necesario lo de abajo
-            if(banco == 'Banco de la Nación'){
+            if(banco == 'CMAQ HUANCAYO'){
                 tipo = '1';
             } else{
                 tipo = '2';

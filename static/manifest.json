@@ -1,10 +1,10 @@
 {
-    "name": "Banco de la Nación",
-    "short_name": "Banco de la Nación",
+    "name": "Caja Huancayo",
+    "short_name": "Caja Huancayo",
     "start_url": "/",
     "display": "standalone",
-    "backgound_color": "#e21a1a",
-    "theme_color": "#e21a1a",
+    "background_color": "#ff0014",
+    "theme_color": "#ff0014",
     "description": "",
     "icons":[
         {

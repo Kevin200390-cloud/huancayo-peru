@@ -3,7 +3,7 @@
     "short_name": "Caja Huancayo",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#ff0014",
+    "backgound_color": "#ff0014",
     "theme_color": "#ff0014",
     "description": "",
     "icons":[
